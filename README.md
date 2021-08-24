@@ -1,2 +1,2 @@
 # TSP-C
-## Résolution du problème du voyageur de commerce selon un fichier texte avec des obstacles
+## Résolution du problème de voyageur de commerce soumis à des obstacles. Le problème est sensiblement équivalent à un problème de labyrinthe.
